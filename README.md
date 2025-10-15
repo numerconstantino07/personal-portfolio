@@ -1,16 +1,77 @@
-# React + Vite
+# 👋 Numeriano Constantino Jr. — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio!  
+This website represents who I am — a **student leader**, **aspiring Project Manager**, and **future Business Analyst** — eager to grow in the field of technology and management.  
 
-Currently, two official plugins are available:
+Though I’m still learning the technical side of development, I’m **highly teachable**, **goal-driven**, and **passionate about teamwork**, communication, and project success.  
+This portfolio serves as both a **reflection of my journey** and a **starting point** toward a career in IT project management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🎯 Purpose
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The purpose of this portfolio is to provide a professional and personal space to showcase my **background**, **leadership experience**, and **career goals**.  
+It’s designed not just to highlight what I’ve done, but to share **who I am as a learner and leader** — someone who values growth, collaboration, and continuous improvement.
 
-## Expanding the ESLint configuration
+While I’m still developing my technical skills, I take pride in my ability to **organize tasks**, **motivate teams**, and **ensure that goals are achieved effectively**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 What’s Inside
+
+- **About Me:** A quick look at my story, interests, and leadership journey.  
+- **Projects:** Collaborative works and academic projects I’ve managed or contributed to.  
+- **Skills Overview:** Core competencies in project management, communication, and basic tech tools.  
+- **Education & Experience:** My academic foundation and hands-on leadership experience.  
+- **Contact Section:** Ways to connect for opportunities or collaboration.
+
+---
+
+## 🧰 Technologies & Tools
+
+Even as a non-developer, I’m continuously learning how technology supports project success.  
+Some tools and technologies I explore include:
+
+- **React &  CSS** – For understanding how modern web applications are built.  
+- **Git & GitHub** – For version control and collaboration.  
+- **Project Management Tools:** Trello, . 
+- **Communication Tools:** Google Workspace
+
+---
+
+## ⚙️ Setup & Installation (for developers)
+
+If you’d like to view or run this portfolio locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/numerconstantino07/personal-portfolio.git
+
+# Navigate to project directory
+cd personal-portfolio
+
+# Install dependencies
+npm install --force
+
+# Start the development server
+npm run dev
+# Build for production
+npm run build
+
+# Deploy to GitHub Pages
+npm run deploy
+
+# Live Demo
+
+
+You can access the live version of your portfolio once it's deployed:
+
+**GitHub Pages URL:**  
+[https://numerconstantino07.github.io/personal-portfolio/]
+
+**Demo Recording:**  
+    [https://drive.google.com/drive/folders/1EdaG4vqsP6eAbaAQu8DMnpO-7ITAqrYw?usp=sharing]
+      
+
+
+---
