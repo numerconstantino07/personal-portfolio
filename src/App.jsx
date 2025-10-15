@@ -452,7 +452,7 @@ function App() {
                 Numer Lubrino Constantino</a>
               </h4>
               <p>
-                Direct massage for inquiries and collaborations.
+                Direct massage for inququiries and collaborations.
               </p>
             </div>
           </div>{" "}
@@ -470,35 +470,34 @@ function App() {
     className="call-to-action pt-125 pb-130 bg_cover"
     style={{ backgroundImage: "url(assets/images/call-to-action.jpg)" }}
   >
-    <div className="container">
+    {/* <div className="container"> */}
       <div className="row justify-content-center">
         <div className="col-xl-8 col-lg-9">
           <div className="call-action-content text-center">
             <h2 className="action-title">
-              You are Using Free Lite Version of Unfold
+              My Complete Resume and CV
             </h2>
             <p>
-              Please, purchase full version of Unfold to get all pages and
-              features. Including credits removal, permission to use in
-              commercial projects, working contact from, docs and support
+              Please read or download my complete resume and CV here.
             </p>
             <ul>
-              <li>
+              {/* <li>
                 <a
                   className="main-btn custom"
                   rel="nofollow"
-                  href="https://rebrand.ly/unfold-ud"
+                  href="file:///C:/Users/Fujitsu/Downloads/Resume%20Numer.pdf"
                 >
-                  Get Full Version
+                  Read my CV
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
                   className="main-btn custom-2"
                   rel="nofollow"
-                  href="https://rebrand.ly/unfold-ud"
+                  href="Resume Numer.pdf"
+                  download
                 >
-                  View Details
+                  Download my CV
                 </a>
               </li>
             </ul>
@@ -507,7 +506,7 @@ function App() {
         </div>
       </div>{" "}
       {/* row */}
-    </div>{" "}
+    {/* </div>{" "} */}
     {/* container */}
   </section>
   {/*====== CALL TO ACTION PART ENDS ======*/}
@@ -517,11 +516,9 @@ function App() {
       <div className="row">
         <div className="col-lg-8">
           <div className="section-title pb-25">
-            <h2 className="title">My Recent Works</h2>
+            <h2 className="title">My Log of Works</h2>
             <p>
-              Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam
-              tempus, nunc id efficitur sagittis, urna est ultricies eros, ac
-              porta sem turpis quis leo.
+             This area is for my Recent and Upcoming Works and Projects
             </p>
           </div>{" "}
           {/* section title */}
@@ -720,11 +717,10 @@ function App() {
       <div className="row justify-content-center">
         <div className="col-lg-8">
           <div className="section-title text-center pb-25">
-            <h2 className="title">My Pricing Plans</h2>
+            <h2 className="title">My Personal Core Values</h2>
             <p>
-              Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam
-              tempus, nunc id efficitur sagittis, urna est ultricies eros, ac
-              porta sem turpis quis leo.
+              These are the core values that I live by and strive to embody in both my personal and professional life.
+              They guide my actions, decisions, and interactions with others.
             </p>
           </div>{" "}
           {/* section title */}
@@ -735,14 +731,14 @@ function App() {
         <div className="col-lg-4 col-md-8 col-sm-9">
           <div className="single-pricing text-center mt-30">
             <div className="pricing-package">
-              <h4 className="package-title">Basic</h4>
+              <h4 className="package-title">Be the Light</h4>
             </div>
             <div className="pricing-body">
               <div className="pricing-text">
-                <p>Simple project management for teams and small businesses.</p>
-                <span className="price">$19.00</span>
+                <p>Make sure whatever we do will give benificial to others.</p>
+                <span className="price">LIGHT</span>
               </div>
-              <div className="pricing-list">
+              {/* <div className="pricing-list">
                 <ul>
                   <li>Unlimited Tasks</li>
                   <li>Unlimited Public</li>
@@ -751,12 +747,12 @@ function App() {
                   <li>All Integrations</li>
                   <li>Public API</li>
                 </ul>
-              </div>
-              <div className="pricing-btn">
+              </div> */}
+              {/* <div className="pricing-btn">
                 <a className="main-btn" href="#contact">
                   get quote
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>{" "}
           {/* single pricing */}
@@ -764,14 +760,14 @@ function App() {
         <div className="col-lg-4 col-md-8 col-sm-9">
           <div className="single-pricing active text-center mt-30">
             <div className="pricing-package">
-              <h4 className="package-title">Standard</h4>
+              <h4 className="package-title">Do everything in Love</h4>
             </div>
             <div className="pricing-body">
               <div className="pricing-text">
-                <p>Simple project management for teams and small businesses.</p>
-                <span className="price">$39.00</span>
+                <p>Love everythingwill teach us to be love and beloved.</p>
+                <span className="price">LOVE</span>
               </div>
-              <div className="pricing-list">
+              {/* <div className="pricing-list">
                 <ul>
                   <li>Unlimited Tasks</li>
                   <li>Unlimited Public</li>
@@ -780,12 +776,12 @@ function App() {
                   <li>All Integrations</li>
                   <li>Public API</li>
                 </ul>
-              </div>
-              <div className="pricing-btn">
+              </div> */}
+              {/* <div className="pricing-btn">
                 <a className="main-btn" href="#contact">
                   get quote
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>{" "}
           {/* single pricing */}
@@ -793,14 +789,14 @@ function App() {
         <div className="col-lg-4 col-md-8 col-sm-9">
           <div className="single-pricing text-center mt-30">
             <div className="pricing-package">
-              <h4 className="package-title">Premium</h4>
+              <h4 className="package-title">Be a Learner's</h4>
             </div>
             <div className="pricing-body">
               <div className="pricing-text">
-                <p>Simple project management for teams and small businesses.</p>
-                <span className="price">$29.00</span>
+                <p>I want a lifetime teachable becuse life never stop teaching.</p>
+                <span className="price">Learner</span>
               </div>
-              <div className="pricing-list">
+              {/* <div className="pricing-list">
                 <ul>
                   <li>Unlimited Tasks</li>
                   <li>Unlimited Public</li>
@@ -809,12 +805,12 @@ function App() {
                   <li>All Integrations</li>
                   <li>Public API</li>
                 </ul>
-              </div>
-              <div className="pricing-btn">
+              </div> */}
+              {/* <div className="pricing-btn">
                 <a className="main-btn" href="#contact">
                   get quote
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>{" "}
           {/* single pricing */}
@@ -833,7 +829,7 @@ function App() {
           <div className="section-title text-center pb-25">
             <h2 className="title">Journey & Achievements</h2>
             <p>
-              These are some of my notable experiences and achievements during my studies.
+              Here are some of my recent achievements and recognitions that highlight my dedication, skills, and contributions in various areas.
             </p>
           </div>{" "}
           {/* section title */}
@@ -865,10 +861,10 @@ function App() {
             <div className="blog-content">
               <h4 className="blog-title">
                 <a href="blog-details.html">
-                  Hired Releases 2023 Brand Health.
+                  Future 
                 </a>
               </h4>
-              <span>July 26, 2022</span>
+              <span>Soon available</span>
             </div>
           </div>{" "}
           {/* single blog */}
@@ -881,10 +877,10 @@ function App() {
             <div className="blog-content">
               <h4 className="blog-title">
                 <a href="blog-details.html">
-                  Hired Releases 2023 Brand Health.
+                  Undern Development
                 </a>
               </h4>
-              <span>July 26, 2022</span>
+              <span>Soon</span>
             </div>
           </div>{" "}
           {/* single blog */}
