@@ -51,8 +51,8 @@ function App() {
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="page-scroll" href="#blog">
-                      Blog
+                    <a className="page-scroll" href="#Journey & Achievements">
+                      Journey & Achievements
                     </a>
                   </li>
                   <li className="nav-item">
@@ -448,11 +448,11 @@ function App() {
             </div>
             <div className="service-content">
               <h4 className="service-title">
-                <a href="#">Consultancy and Support</a>
+                <a href="https://www.facebook.com/numer.lubrinoconstantino/"> 
+                Numer Lubrino Constantino</a>
               </h4>
               <p>
-                Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum
-                lacus quis blandit enimdicta sunt.
+                Direct massage for inquiries and collaborations.
               </p>
             </div>
           </div>{" "}
@@ -826,16 +826,14 @@ function App() {
   </section>
   {/*====== PRICING PART ENDS ======*/}
   {/*====== BLOG PART START ======*/}
-  <section id="blog" className="blog-area pt-125 pb-130">
+  <section id="Journey & Achievements" className="blog-area pt-125 pb-130">
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-lg-8">
           <div className="section-title text-center pb-25">
-            <h2 className="title">From The Blog</h2>
+            <h2 className="title">Journey & Achievements</h2>
             <p>
-              Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam
-              tempus, nunc id efficitur sagittis, urna est ultricies eros, ac
-              porta sem turpis quis leo.
+              These are some of my notable experiences and achievements during my studies.
             </p>
           </div>{" "}
           {/* section title */}
@@ -851,10 +849,10 @@ function App() {
             <div className="blog-content">
               <h4 className="blog-title">
                 <a href="blog-details.html">
-                  Hired Releases 2023 Brand Health.
+                  IT Marketing Champion
                 </a>
               </h4>
-              <span>July 26, 2022</span>
+              <span>Team Gradle "AIM POWER HEALTH"</span>
             </div>
           </div>{" "}
           {/* single blog */}
@@ -916,9 +914,7 @@ function App() {
           <div className="section-title text-center pb-25">
             <h2 className="title">Get In Touch</h2>
             <p>
-              Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam
-              tempus, nunc id efficitur sagittis, urna est ultricies eros, ac
-              porta sem turpis quis leo.
+             Please contact me through email or phone. I look forward to connecting with you!
             </p>
           </div>{" "}
           {/* section title */}
@@ -933,7 +929,7 @@ function App() {
             </div>
             <div className="contact-content">
               <h6 className="contact-title">Address</h6>
-              <p>123 Stree New York City , United States Of America 750</p>
+              <p>ADD st. Apalit Pampanga 2016</p>
             </div>
           </div>{" "}
           {/* contact box */}
@@ -945,8 +941,7 @@ function App() {
             </div>
             <div className="contact-content">
               <h6 className="contact-title">Phone</h6>
-              <p>+931 2222 5555</p>
-              <p>+547 5554 6663</p>
+              <p>+63 910 755 8135</p>
             </div>
           </div>{" "}
           {/* contact box */}
@@ -958,8 +953,7 @@ function App() {
             </div>
             <div className="contact-content">
               <h6 className="contact-title">Email</h6>
-              <p>support@yourmail.com</p>
-              <p>info@helpline.com</p>
+              <p>numerconstantino@gmail.com</p>
             </div>
           </div>{" "}
           {/* contact box */}
