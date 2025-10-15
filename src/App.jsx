@@ -118,8 +118,8 @@ function App() {
           <div className="col-xl-5 col-lg-6">
             <div className="header-content-right">
               <h4 className="sub-title">Hello, I’m</h4>
-              <h1 className="title">Mark Parker</h1>
-              <p>A Freelance UI Designer &amp; Web Developer</p>
+              <h1 className="title">Numeriano L. Constantino Jr.</h1>
+              <p>Aspiring Project Manager &amp; Business Analyst</p>
               <a className="main-btn" href="#work">
                 View my Work
               </a>
@@ -184,9 +184,10 @@ function App() {
           <div className="section-title text-center">
             <h2 className="title">About Me</h2>
             <p>
-              Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam
-              tempus, nunc id efficitur sagittis, urna est ultricies eros, ac
-              porta sem turpis quis leo.
+              I’m an aspiring Project Manager and Business Analyst 
+              who loves leading with purpose and finding smart solutions 
+              to real-world challenges. I aim to apply my experience as a student leader 
+              to create impact and inspire collaboration in my future career, God-willing.
             </p>
           </div>{" "}
           {/* section title */}
@@ -196,12 +197,12 @@ function App() {
       <div className="row">
         <div className="col-lg-6">
           <div className="about-content mt-50">
-            <h5 className="about-title">Hi There! I'm Mark Parker</h5>
+            <h5 className="about-title">Hi There! You can call me Numer</h5>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              I’m a BS Information Systems student and student leader at 
+              La Verdad Christian College, passionate about building responsive and 
+              user-friendly web applications. As an aspiring Business Analyst and Project Manager, 
+              I’m driven to create elegant solutions that make technology work seamlessly for people.
             </p>
             <ul className="clearfix">
               <li>
@@ -211,7 +212,7 @@ function App() {
                   </div>
                   <div className="info-text">
                     <p>
-                      <span>Date of birth:</span> 8 June 1995
+                      <span>Date of birth:</span> 25 Jan. 2001
                     </p>
                   </div>
                 </div>{" "}
@@ -224,7 +225,7 @@ function App() {
                   </div>
                   <div className="info-text">
                     <p>
-                      <span>Email:</span> parker@mysite.com
+                      <span>Email:</span> numerconstantino@gmail.com
                     </p>
                   </div>
                 </div>{" "}
@@ -237,7 +238,7 @@ function App() {
                   </div>
                   <div className="info-text">
                     <p>
-                      <span>Phone:</span> +1-202-555-0138
+                      <span>Phone:</span> +63 910 755-8135
                     </p>
                   </div>
                 </div>{" "}
@@ -250,7 +251,7 @@ function App() {
                   </div>
                   <div className="info-text">
                     <p>
-                      <span>Location:</span> 4373, El Centro, CA
+                      <span>Location:</span> ADD ST. MC. Arthur HWY. Apalit Pampanga
                     </p>
                   </div>
                 </div>{" "}
@@ -274,7 +275,7 @@ function App() {
               </div>
               <div className="skill-bar">
                 <div className="bar-inner">
-                  <div className="bar progress-line" data-width={80} />
+                  <div className="bar progress-line" data-width={70} />
                 </div>
               </div>
             </div>{" "}
@@ -347,9 +348,11 @@ function App() {
           <div className="section-title text-center pb-30">
             <h2 className="title">My Services</h2>
             <p>
-              Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam
-              tempus, nunc id efficitur sagittis, urna est ultricies eros, ac
-              porta sem turpis quis leo.
+              I’m currently the Project Manager of BSIS 3-A Group 3, 
+              leading the development of the BES House of Chicken Online Ordering System. 
+              Alongside my studies, I work part-time as a fast-food crew member and freelance as 
+              a host and photographer. As an aspiring Project Manager and Business Analyst, 
+              I’m passionate about people, problem-solving, and turning ideas into meaningful results — God-willing.
             </p>
           </div>{" "}
           {/* section title */}
@@ -364,12 +367,10 @@ function App() {
             </div>
             <div className="service-content">
               <h4 className="service-title">
-                <a href="#">Web Design</a>
+                <a href="#">Current Project</a>
               </h4>
-              <p>
-                Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum
-                lacus quis blandit enimdicta sunt.
-              </p>
+              <a href="https://chick-n-click-uuiw.vercel.app/">
+              BES Click&Chick</a>
             </div>
           </div>{" "}
           {/* single service */}
@@ -381,12 +382,12 @@ function App() {
             </div>
             <div className="service-content">
               <h4 className="service-title">
-                <a href="#contact">Graphic Design</a>
+                <a href="#contact">My Freelance FB Page</a>
               </h4>
-              <p>
-                Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum
-                lacus quis blandit enimdicta sunt.
-              </p>
+              <a href="https://www.facebook.com/knowmerspicscreations/">
+              KnowmerPicsCreations</a>
+            
+    
             </div>
           </div>{" "}
           {/* single service */}
@@ -398,12 +399,11 @@ function App() {
             </div>
             <div className="service-content">
               <h4 className="service-title">
-                <a href="#">App Design</a>
+                <a href="#">GIT ACCOUNT</a>
               </h4>
-              <p>
-                Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum
-                lacus quis blandit enimdicta sunt.
-              </p>
+              <a href="https://github.com/numerconstantino07">
+                  numrconstantino07
+              </a>
             </div>
           </div>{" "}
           {/* single service */}
@@ -415,12 +415,11 @@ function App() {
             </div>
             <div className="service-content">
               <h4 className="service-title">
-                <a href="#">Illustration Design</a>
+                <a href="#">IT marketing exp.</a>
               </h4>
-              <p>
-                Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum
-                lacus quis blandit enimdicta sunt.
-              </p>
+              <a href="https://www.figma.com/design/7gDSvPNpPkaVvH5T5hukj0/Aim_Power_Health?node-id=0-1&p=f&t=TB9JLDFdeYheO4RT-0">
+                AIM POWER HEALTH
+              </a>
             </div>
           </div>{" "}
           {/* single service */}
